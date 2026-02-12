@@ -1,8 +1,3 @@
-<div align="center">
-    <img src="https://avatars.githubusercontent.com/u/52832800?v=4" alt="Kassia Fraga Photo" height="100" style="border-radius: 50%;" />
-    <h1>Welcome to My GitHub!</h1>
-</div>
-
 ## Hi 👋, I'm Kassia Marques
 ### I'm a fullstack engineer, pet lover, and noob gamer
 
